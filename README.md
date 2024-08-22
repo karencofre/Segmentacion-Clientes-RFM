@@ -23,6 +23,11 @@ Procesamiento y análisis:
 Resultados y Conclusiones:
 Se cuantificó el problema mediante una tasa promedio de transacciones por las categorías de clientes generadas tras un análisis estadístico utilizado para la segmentación de clientes. Según la categoría más frecuente, la de "cliente leal", se observó un impacto económico en la tasa promedio de transacciones y se plantearon escenarios de ahorro para mejorar dicha tasa.
 
+Dashboard
+
+![Dashboard](DAShboard.png)
+
+
 Limitaciones/Próximos Pasos:
 Identifica y describe cualquier limitación o desafío encontrado durante el proyecto.
 Sugiere posibles próximos pasos para extender o mejorar el proyecto de análisis de datos.
